@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Spandan Mozumder</h1>
-<h3 align="center">A passionate 'Tech Trailblazer' who likes to try new technologies and algorithms.</h3>
+<h3 align="center">A passionate 'Tech Trailblazer' who likes to try new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spandan-mozumder&label=Profile%20views&color=0e75b6&style=flat" alt="spandan-mozumder" /> </p>
 
