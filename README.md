@@ -1,9 +1,9 @@
 <!-- Header with typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Spandan+Mozumder;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast&center=true&size=30&color=58a6ff">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Spandan+Mozumder;Full+Stack+Developer;Mobile+App+Developer;Web3+Developer&center=true&size=30&color=58a6ff">
 </h1>
 
-<h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 A Developer from India 🇮🇳 who loves to brainstorm and build products</h3>
 
 <!-- Profile views and trophy -->
 <p align="center"> 
