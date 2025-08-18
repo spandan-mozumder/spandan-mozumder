@@ -224,9 +224,6 @@
   <a href="https://www.buymeacoffee.com/spandanmozumder" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" height="41" width="174">
   </a>
-  <a href="https://ko-fi.com/spandanmozumder" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" height="41" width="174">
-  </a>
 </div>
 
 <br>
@@ -245,7 +242,7 @@
 <div align="center">
   <h2>✨ Thank you for visiting my profile! ✨</h2>
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50">
-  <p><em>Made with ❤️ and JavaScript</em></p>
+  <p><em>Made with ❤️ and ☕️</em></p>
   <p>⭐️ From <a href="https://github.com/spandan-mozumder"><strong>Spandan Mozumder</strong></a></p>
 </div>
 
