@@ -1,9 +1,9 @@
 <!-- Header with typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Spandan+Mozumder;Full+Stack+Developer;Mobile+App+Developer;Web3+Developer&center=true&size=30&color=58a6ff">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Spandan+Mozumder;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast&center=true&size=30&color=58a6ff">
 </h1>
 
-<h3 align="center">🚀 A Developer from India 🇮🇳 who loves to brainstorm and build products</h3>
+<h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>
 
 <!-- Profile views and trophy -->
 <p align="center"> 
@@ -33,6 +33,7 @@
 - ⚡ Fun fact: **My ADHD motivates me to learn everything I see while my Anxiety questions what good it will do, thus keeping me in a self-harming loop without improvement.**
 
 <!-- Social Media Links -->
+
 ## 🤝 Connect with me:
 
 <p align="center">
@@ -51,45 +52,61 @@
 </p>
 
 <!-- Tech Stack -->
+
 ## 🛠️ Languages and Tools:
 
 ### 💻 Programming Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,rust,solidity,html,css" />
 </p>
 
 ### 🚀 Frontend Development
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,materialui,vite" />
 </p>
 
 ### ⚙️ Backend Development
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,firebase,solana,prisma,supabase,bun" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Messaging
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,kafka" />
 </p>
 
-### 🔧 DevOps & Tools
+### ☁️ Cloud & DevOps
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,postman,grafana" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,postman,grafana,cloudflare,aws,vercel,netlify,prometheus" />
 </p>
 
-### 🧪 Testing
+### 🧪 Testing & Package Managers
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jest" />
+  <img src="https://skillicons.dev/icons?i=jest,npm,pnpm,yarn" />
 </p>
 
-### 📱 Mobile Development
+### 🧑‍💻 Developer Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+### 📱 Mobile & ML Development
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
 </p>
 
 <!-- GitHub Stats -->
+
 ## 📊 GitHub Stats:
 
 <div align="center">
@@ -105,19 +122,25 @@
 </div>
 
 <!-- Activity Graph -->
+
 ## 📈 Activity Graph:
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=spandan-mozumder&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 <!-- Quote -->
+
 ## 💭 Random Dev Quote:
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 <!-- Support -->
+
 ## ☕ Support My Work:
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/spandanmozumder" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
