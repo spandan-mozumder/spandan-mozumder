@@ -1,6 +1,17 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Spandan%20Mozumder&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Spandan%20Mozumder&fontSize=<!-- Activity Graph -->
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;**_My Contribution Graph_**
+
+<br>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=spandan-mozumder&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fffe&area=true&hide_border=true" border-radius="15">
+</div>
+
+<br><br>ignY=35&animation=twinkling&fontColor=ffffff" />
+
 </div>
 
 <!-- Typing Animation -->
@@ -100,7 +111,7 @@
 
 <br>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Programming Languages**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> **Programming Languages**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -108,7 +119,7 @@
   </a>
 </p>
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **Frontend Development**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> **Frontend Development**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -116,7 +127,7 @@
   </a>
 </p>
 
-### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30"> **Backend Development**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> **Backend Development**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -124,7 +135,7 @@
   </a>
 </p>
 
-### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="30"> **Databases & Messaging**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="25" height="25" /> **Databases & Messaging**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -132,7 +143,7 @@
   </a>
 </p>
 
-### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"> **Cloud & DevOps**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Weather/Cloud.png" alt="Cloud" width="25" height="25" /> **Cloud & DevOps**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -140,7 +151,7 @@
   </a>
 </p>
 
-### <img src="https://media.giphy.com/media/cIn5fTcjnKD6YimE71/giphy.gif" width="30"> **Testing & Package Managers**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test Tube" width="25" height="25" /> **Testing & Package Managers**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -148,7 +159,7 @@
   </a>
 </p>
 
-### <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="30"> **Developer Tools**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> **Developer Tools**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -156,7 +167,7 @@
   </a>
 </p>
 
-### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> **Mobile & ML Development**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="25" height="25" /> **Mobile & ML Development**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -171,7 +182,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<br>
+<br><br>
 
 <div align="center">
 
@@ -181,13 +192,15 @@
 </a>
 </div>
 
+<br><br>
+
 <div align="center">
   <a href="https://github.com/spandan-mozumder/">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spandan-mozumder&background=0,000000,130F40&border=7A7ADB&stroke=6FDA44&ring=7A7ADB&fire=7A7ADB&currStreakNum=FFF&sideNums=FFF&currStreakLabel=7A7ADB&sideLabels=FFF&dates=FFF" />
   </a>
 </div>
 
-<br>
+<br><br>
 
 <!-- Activity Graph -->
 
