@@ -181,8 +181,6 @@
 </a>
 </div>
 
-<br><br>
-
 <div align="center">
   <a href="https://github.com/spandan-mozumder/">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spandan-mozumder&background=0,000000,130F40&border=7A7ADB&stroke=6FDA44&ring=7A7ADB&fire=7A7ADB&currStreakNum=FFF&sideNums=FFF&currStreakLabel=7A7ADB&sideLabels=FFF&dates=FFF" />
