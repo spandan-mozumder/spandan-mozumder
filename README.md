@@ -28,24 +28,6 @@ const spandan = {
 
 ---
 
-### Featured Projects
-
-**[DevOmegle](https://github.com/spandan-mozumder)** — A socializing platform exclusively for developers. Connect, collaborate, and network with like-minded programmers.  
-`Next.js` `TypeScript` `WebSocket` `PostgreSQL` `Prisma`
-
-**[GitWit](https://github.com/spandan-mozumder)** — AI-powered agent that helps developers understand codebases. Summarizes files, commits, and provides an interactive chatbot.  
-`Next.js` `Gemini` `Langchain` `PostgreSQL` `AssemblyAI`
-
-**[Fluxon](https://github.com/spandan-mozumder)** — Visual workflow automation platform with a node editor, durable execution, and real-time observability.  
-`Next.js` `ReactFlow` `Inngest` `tRPC` `WebSocket`
-
-**[Nexus Platform](https://github.com/spandan-mozumder)** — All-in-one productivity platform integrating project management, whiteboards, docs, and team communication.  
-`React` `TypeScript` `Node.js` `PostgreSQL` `Prisma`
-
-[→ View all projects](https://spandyz.xyz/projects)
-
----
-
 ### Tech Stack
 
 ```
